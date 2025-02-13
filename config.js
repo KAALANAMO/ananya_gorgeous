@@ -45,9 +45,9 @@ const CONFIG = {
             secretAnswer: "OR YOU🙈🧿🫠 "           // Secret hover message// Text for the next button
         },
         FORTH: {
-            text: "ON SCALE OF 1 TO 1000 YOUR LIKING FOR ME",                          // For the love meter
-            startText: "BEYOND YOU IMAGINATION",  "INFINITE", "INFINITE TILL THE CORE OF GALAXY"                           // Text before the percentage
-            nextBtn: "NEXT"                                         // Text for the next button
+            text: "ON SCALE OF 1 TO 1000 YOUR THOUGHT ABOUT US",                          // For the love meter
+            startText: "BEYOND YOUR IMAGINATION",  "INFINITE", "INFINITE TILL THE CORE OF GALAXY"                           // Text before the percentage
+            nextBtn: "NEXT PLZ"                                         // Text for the next button
         },
         FIFTH: {
             text: "Will you be my Valentine FOREVER? 🌹🌻", // The big question!
